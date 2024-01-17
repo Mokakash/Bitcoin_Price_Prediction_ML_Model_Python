@@ -1,1 +1,1 @@
-# Bitcoin_Price_Prediction_Model_MachineLearning_Python
+# Bitcoin Price Prediction - Machine Learning Model
