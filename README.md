@@ -31,4 +31,4 @@ Contributions to enhance this analysis are welcome!
 Feel free to fork the repository and create a new branch for your modifications.
 
 # Disclaimer
-This analysis is based on personal data for a Python project ONLY and should **NOT** be construed as financial advice; it is solely intended for educational and informational purposes.
+This analysis is for educational purposes ONLY and should **NOT** be construed as financial advice; it is solely intended for informational purposes.
