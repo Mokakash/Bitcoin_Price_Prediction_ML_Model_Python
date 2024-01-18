@@ -30,5 +30,5 @@ In this project, I’ve developed a Machine Learning Model in Python to predict 
 Contributions to enhance this analysis are welcome! 
 Feel free to fork the repository and create a new branch for your modifications.
 
-## Disclaimer
+# Disclaimer
 This analysis is based on personal data for a Python project ONLY and should **NOT** be construed as financial advice; it is solely intended for educational and informational purposes.
