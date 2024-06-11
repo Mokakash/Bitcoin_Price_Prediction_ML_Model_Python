@@ -6,7 +6,7 @@ In this project, I’ve developed a Machine Learning Model in Python to predict 
 
 ## Data Preparation
 + Downloading Bitcoin base price data from Yahoo Finance.
-+ Preparing a line chart based on the obtained data.
++ Preparing a line chart based on the obtained data. 
 + Slicing the data to focus on closing prices.
 ## Data Splitting & Scaling
 + Splitting the data into training and test datasets (due to BTC price fluctuation, I chose to take most of the data into the part of the training dataset so that our model can identify the data patterns with the time series data)
